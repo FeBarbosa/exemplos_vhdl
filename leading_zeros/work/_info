@@ -1,0 +1,80 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/leading_zeros
+Eleading_zeros
+Z1 w1513898839
+R0
+Z2 8C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/leading_zeros/leading_zeros.vhd
+Z3 FC:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/leading_zeros/leading_zeros.vhd
+l0
+L5
+VbiHB6b>EVAejFN9ez^M;@2
+!s100 [<I4;zF:JfXBbn@VW1zHl3
+Z4 OP;C;10.4a;61
+32
+Z5 !s110 1513898865
+!i10b 1
+Z6 !s108 1513898865.000000
+Z7 !s90 -reportprogress|300|-work|work|C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/leading_zeros/leading_zeros.vhd|
+Z8 !s107 C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/leading_zeros/leading_zeros.vhd|
+!i113 1
+Z9 o-work work -O0
+Z10 tExplicit 1
+Aleading_zeros
+DEx4 work 13 leading_zeros 0 22 biHB6b>EVAejFN9ez^M;@2
+l12
+L11
+V5lZMEdH3MC`54^0TXU6Rd3
+!s100 D^P5^AP<=_DORO<@lB^IA1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Etest_leading_zeros
+Z11 w1513899458
+R0
+Z12 8C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/leading_zeros/test_leading_zeros.vhd
+Z13 FC:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/leading_zeros/test_leading_zeros.vhd
+l0
+L2
+VZY:LcH7X1PC?@:Y5_jW]S1
+!s100 M6>63P9H:>PID^@bolRT21
+R4
+32
+Z14 !s110 1513899464
+!i10b 1
+Z15 !s108 1513899464.000000
+Z16 !s90 -reportprogress|300|-work|work|-O0|C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/leading_zeros/test_leading_zeros.vhd|
+Z17 !s107 C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/leading_zeros/test_leading_zeros.vhd|
+!i113 1
+R9
+R10
+Atest_leading_zeros
+DEx4 work 18 test_leading_zeros 0 22 ZY:LcH7X1PC?@:Y5_jW]S1
+l15
+L6
+V;O>J08=@0eRnVm12L8W_[1
+!s100 4LgTh@M1Y<]S:@`YR]X=;1
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10

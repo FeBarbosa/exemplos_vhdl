@@ -1,0 +1,166 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4
+Earray_multiplier4x4
+Z1 w1516294587
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/array_multiplier4x4.vhd
+Z5 FC:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/array_multiplier4x4.vhd
+l0
+L6
+V=e4j4SN2lcL[>hcG;@I;60
+!s100 :4^R8PB4EUQB4=zjl63GB1
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1516307763
+!i10b 1
+Z8 !s108 1516307763.000000
+Z9 !s90 -reportprogress|300|-work|work|-O0|C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/array_multiplier4x4.vhd|
+Z10 !s107 C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/array_multiplier4x4.vhd|
+!i113 1
+Z11 o-work work -O0
+Z12 tExplicit 1
+Aarray_multiplier4x4
+R2
+R3
+Z13 DEx4 work 19 array_multiplier4x4 0 22 =e4j4SN2lcL[>hcG;@I;60
+l44
+L11
+Z14 V4<TE@6G?<83@H=d;ehkUS2
+Z15 !s100 XA;2aeF0hW``:EZAnl7;R3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Efull_adder
+Z16 w1516247064
+R2
+R3
+R0
+Z17 8C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/full_adder.vhd
+Z18 FC:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/full_adder.vhd
+l0
+L5
+V1R6^H7e[Y]8bcf9W=EJR=2
+!s100 P>_?oTIFPDmMh3XTWWk@:1
+R6
+32
+Z19 !s110 1516247069
+!i10b 1
+Z20 !s108 1516247068.000000
+Z21 !s90 -reportprogress|300|-work|work|-O0|C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/full_adder.vhd|
+Z22 !s107 C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/full_adder.vhd|
+!i113 1
+R11
+R12
+Afull_adder
+R2
+R3
+DEx4 work 10 full_adder 0 22 1R6^H7e[Y]8bcf9W=EJR=2
+l11
+L10
+VZ^]]0P5z<C9APh`NPMz?o2
+!s100 bUV_Y0DC3]HmjFlld@Kic1
+R6
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R11
+R12
+Ehalf_adder
+Z23 w1516242043
+R2
+R3
+R0
+Z24 8C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/half_adder.vhd
+Z25 FC:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/half_adder.vhd
+l0
+L4
+V6FI?1`=R9_jZegShSo8FI3
+!s100 BOan5?1:BFU`CNSkKd8hj0
+R6
+32
+Z26 !s110 1516246971
+!i10b 1
+Z27 !s108 1516246971.000000
+Z28 !s90 -reportprogress|300|-work|work|-O0|C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/half_adder.vhd|
+Z29 !s107 C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/half_adder.vhd|
+!i113 1
+R11
+R12
+Ahalf_adder
+R2
+R3
+DEx4 work 10 half_adder 0 22 6FI?1`=R9_jZegShSo8FI3
+l10
+L9
+V@U7GPH37Q0[?f4M`zb7Ib0
+!s100 =U48^AANnY6i944HID;2J1
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R11
+R12
+Etest_array_multiplier4x4
+Z30 w1516295190
+R2
+R3
+R0
+Z31 8C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/test_array_multiplier4x4.vhd
+Z32 FC:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/test_array_multiplier4x4.vhd
+l0
+L6
+VW1b?Y7i36I[[[O;bTYjVW1
+!s100 O[74nAj28YOVBN49lSeb11
+R6
+32
+Z33 !s110 1516307756
+!i10b 1
+Z34 !s108 1516307756.000000
+Z35 !s90 -reportprogress|300|-work|work|-O0|C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/test_array_multiplier4x4.vhd|
+Z36 !s107 C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/exemplos/array-Multiplier4x4/test_array_multiplier4x4.vhd|
+!i113 1
+R11
+R12
+Atest_array_multiplier4x4
+R2
+R3
+DEx4 work 24 test_array_multiplier4x4 0 22 W1b?Y7i36I[[[O;bTYjVW1
+l20
+L9
+VWH5UkiEEMoG1Zk6IikfS72
+!s100 _@WPIX=eN?FNX`jlhg`m61
+R6
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R11
+R12

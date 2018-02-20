@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Felipe Barbosa/Desktop/vhdltutorial
+Eclock_divider
+Z1 w1508204812
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/Felipe Barbosa/Desktop/vhdltutorial/clock_divider.vhd
+Z5 FC:/Users/Felipe Barbosa/Desktop/vhdltutorial/clock_divider.vhd
+l0
+L5
+VnoeXe67Go5AoKTW2Y6a^b0
+!s100 Ae0K_jYGelGAWAKAW2eoH2
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1508204937
+!i10b 1
+Z8 !s108 1508204936.000000
+Z9 !s90 -reportprogress|300|-work|work|-O0|C:/Users/Felipe Barbosa/Desktop/vhdltutorial/clock_divider.vhd|
+Z10 !s107 C:/Users/Felipe Barbosa/Desktop/vhdltutorial/clock_divider.vhd|
+!i113 1
+Z11 o-work work -O0
+Z12 tExplicit 1
+Aclock_divider
+R2
+R3
+Z13 DEx4 work 13 clock_divider 0 22 noeXe67Go5AoKTW2Y6a^b0
+l12
+L10
+VPU0W0^og=MDCoHeAY8@Bi3
+!s100 FNiS03[bM1P7Y>RA5d5273
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etest_clock_divider
+Z14 w1508186604
+R2
+R3
+R0
+Z15 8C:/Users/Felipe Barbosa/Desktop/vhdltutorial/test_clock_divider.vhd
+Z16 FC:/Users/Felipe Barbosa/Desktop/vhdltutorial/test_clock_divider.vhd
+l0
+L5
+V]cFZTcY8SL9DViJA=jF7@1
+!s100 9kFHgSDhGL4MGd5SD[;h:0
+R6
+32
+Z17 !s110 1508204933
+!i10b 1
+Z18 !s108 1508204933.000000
+Z19 !s90 -reportprogress|300|-work|work|-O0|C:/Users/Felipe Barbosa/Desktop/vhdltutorial/test_clock_divider.vhd|
+Z20 !s107 C:/Users/Felipe Barbosa/Desktop/vhdltutorial/test_clock_divider.vhd|
+!i113 1
+R11
+R12
+Atest_clock_divider
+R2
+R3
+DEx4 work 18 test_clock_divider 0 22 ]cFZTcY8SL9DViJA=jF7@1
+l18
+L8
+VR]dk7WIe8A<hG?2H2<RK03
+!s100 1DXm0UIhZ2o?95njV<g0_1
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12

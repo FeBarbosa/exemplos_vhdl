@@ -1,0 +1,107 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/somador Carry-Ripple
+Ecarry_ripple_adder
+Z0 w1509984427
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/somadorCarry-Ripple
+Z4 8C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/somadorCarry-Ripple/carry_ripple_adder.vhd
+Z5 FC:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/somadorCarry-Ripple/carry_ripple_adder.vhd
+l0
+L5
+V[8KCDW7Z^2__GBoK:lSV:0
+!s100 1MAV2fOFaN<Fi?FH>LhS12
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1510432502
+!i10b 1
+Z8 !s108 1510432502.000000
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/somadorCarry-Ripple/carry_ripple_adder.vhd|
+Z10 !s107 C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/somadorCarry-Ripple/carry_ripple_adder.vhd|
+!i113 1
+Z11 o-work work -O0
+Z12 tExplicit 1
+Astructure
+R1
+R2
+DEx4 work 18 carry_ripple_adder 0 22 [8KCDW7Z^2__GBoK:lSV:0
+l14
+L13
+VjK]hjHgf2YPTh1Ff=`fb53
+!s100 9C@FYQ@Y@E@QlQfehUb_:0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etest_carry_ripple_adder
+Z13 w1510458458
+R1
+R2
+R3
+Z14 8C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/somadorCarry-Ripple/test_carry_ripple_adder.vhd
+Z15 FC:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/somadorCarry-Ripple/test_carry_ripple_adder.vhd
+l0
+L5
+Vzl4zk[f165N]2ET23^>U=1
+!s100 =7X@LlDbmQgC9A8^QG8D73
+R6
+32
+Z16 !s110 1510458504
+!i10b 1
+Z17 !s108 1510458504.000000
+Z18 !s90 -reportprogress|300|-work|work|-O0|C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/somadorCarry-Ripple/test_carry_ripple_adder.vhd|
+Z19 !s107 C:/Users/Felipe Barbosa/Desktop/SimulacoesModelSim/somadorCarry-Ripple/test_carry_ripple_adder.vhd|
+!i113 1
+R11
+R12
+Astructure
+R1
+R2
+Z20 DEx4 work 23 test_carry_ripple_adder 0 22 zl4zk[f165N]2ET23^>U=1
+l23
+L9
+Z21 V:iRISY3OfHz4_zPYh?LQ@0
+Z22 !s100 1?bkNSj@;@oj1:KdMPRJP1
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Atest_carry_ripple_adder
+R1
+R2
+R20
+l23
+L9
+V_Jb?l<dYCh=L0U41`a@Ol3
+!s100 187>[h51:APQFA0n;oVmA1
+R6
+32
+!s110 1510428118
+!i10b 1
+!s108 1510428118.000000
+R18
+R19
+!i113 1
+R11
+R12
+w1510428115
